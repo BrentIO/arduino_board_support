@@ -12,15 +12,15 @@
         {
           "name": "RobotDyn MCU-PRO",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/BrentIO/arduino_board_support/"
           },
           "url": "https://raw.github.com/BrentIO/arduino_board_support/master/mcu-pro-1.0.zip",
           "archiveFileName": "mcu-pro-1.0.zip",
-          "checksum": "SHA-256:240188bbb321a8262aef7266c76f2c54e96e9fdf2ab7b78df994a85fa8b3258d",
-          "size": "5042",
+          "checksum": "SHA-256:366deb97a2755abf859d38dc0253e2e631df62475b4cd217b067a97b7d11f827",
+          "size": "4561",
           "boards": [
             {"name": "RobotDyn MCU-PRO"}
           ]
