@@ -17,7 +17,7 @@
           "help": {
             "online": "https://github.com/BrentIO/arduino_board_support/"
           },
-          "url": "https://github.com/BrentIO/arduino_board_support/blob/master/mcu-pro-1.0.zip",
+          "url": "https://github.com/BrentIO/arduino_board_support/blob/master/mcu-pro-1.0.zip?raw=true",
           "archiveFileName": "mcu-pro-1.0.zip",
           "checksum": "SHA-256:953726706857ec5495e3721884cd4a90a31787462e685657159e76ff685ae4c4",
           "size": "7583",
