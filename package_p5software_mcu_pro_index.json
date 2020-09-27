@@ -19,8 +19,8 @@
           },
           "url": "https://raw.github.com/BrentIO/arduino_board_support/master/mcu-pro-1.0.zip",
           "archiveFileName": "mcu-pro-1.0.zip",
-          "checksum": "SHA-256:72c4d37ce1964001111aeee116dd6c2df44dcf2b4800a8bb42bb805ffe444935",
-          "size": "6604",
+          "checksum": "SHA-256:240188bbb321a8262aef7266c76f2c54e96e9fdf2ab7b78df994a85fa8b3258d",
+          "size": "5042",
           "boards": [
             {"name": "RobotDyn MCU-PRO"}
           ]
