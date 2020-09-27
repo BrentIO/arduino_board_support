@@ -1,1 +1,1 @@
-# arduino_board_support
+Adds support for certain Arduino-based boards
